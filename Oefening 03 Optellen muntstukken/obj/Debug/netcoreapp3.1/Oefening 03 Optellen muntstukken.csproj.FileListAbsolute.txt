@@ -1,0 +1,11 @@
+D:\Programmeren in c#\Oefeningen\Oefening 03 Optellen muntstukken\bin\Debug\netcoreapp3.1\Oefening 03 Optellen muntstukken.exe
+D:\Programmeren in c#\Oefeningen\Oefening 03 Optellen muntstukken\bin\Debug\netcoreapp3.1\Oefening 03 Optellen muntstukken.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 03 Optellen muntstukken\bin\Debug\netcoreapp3.1\Oefening 03 Optellen muntstukken.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 03 Optellen muntstukken\bin\Debug\netcoreapp3.1\Oefening 03 Optellen muntstukken.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 03 Optellen muntstukken\bin\Debug\netcoreapp3.1\Oefening 03 Optellen muntstukken.dll
+D:\Programmeren in c#\Oefeningen\Oefening 03 Optellen muntstukken\bin\Debug\netcoreapp3.1\Oefening 03 Optellen muntstukken.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 03 Optellen muntstukken\obj\Debug\netcoreapp3.1\Oefening 03 Optellen muntstukken.csprojAssemblyReference.cache
+D:\Programmeren in c#\Oefeningen\Oefening 03 Optellen muntstukken\obj\Debug\netcoreapp3.1\Oefening 03 Optellen muntstukken.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 03 Optellen muntstukken\obj\Debug\netcoreapp3.1\Oefening 03 Optellen muntstukken.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 03 Optellen muntstukken\obj\Debug\netcoreapp3.1\Oefening 03 Optellen muntstukken.dll
+D:\Programmeren in c#\Oefeningen\Oefening 03 Optellen muntstukken\obj\Debug\netcoreapp3.1\Oefening 03 Optellen muntstukken.pdb
