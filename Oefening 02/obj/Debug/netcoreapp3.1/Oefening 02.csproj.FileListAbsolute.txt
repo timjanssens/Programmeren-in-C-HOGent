@@ -1,0 +1,11 @@
+D:\Programmeren in c#\Oefeningen\Oefening 02\bin\Debug\netcoreapp3.1\Oefening 02.exe
+D:\Programmeren in c#\Oefeningen\Oefening 02\bin\Debug\netcoreapp3.1\Oefening 02.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 02\bin\Debug\netcoreapp3.1\Oefening 02.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 02\bin\Debug\netcoreapp3.1\Oefening 02.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 02\bin\Debug\netcoreapp3.1\Oefening 02.dll
+D:\Programmeren in c#\Oefeningen\Oefening 02\bin\Debug\netcoreapp3.1\Oefening 02.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 02\obj\Debug\netcoreapp3.1\Oefening 02.csprojAssemblyReference.cache
+D:\Programmeren in c#\Oefeningen\Oefening 02\obj\Debug\netcoreapp3.1\Oefening 02.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 02\obj\Debug\netcoreapp3.1\Oefening 02.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 02\obj\Debug\netcoreapp3.1\Oefening 02.dll
+D:\Programmeren in c#\Oefeningen\Oefening 02\obj\Debug\netcoreapp3.1\Oefening 02.pdb
