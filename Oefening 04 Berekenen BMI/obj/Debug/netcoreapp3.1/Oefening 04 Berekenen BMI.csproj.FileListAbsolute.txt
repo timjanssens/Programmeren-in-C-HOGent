@@ -1,0 +1,11 @@
+D:\Programmeren in c#\Oefeningen\Oefening 04 Berekenen BMI\bin\Debug\netcoreapp3.1\Oefening 04 Berekenen BMI.exe
+D:\Programmeren in c#\Oefeningen\Oefening 04 Berekenen BMI\bin\Debug\netcoreapp3.1\Oefening 04 Berekenen BMI.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 04 Berekenen BMI\bin\Debug\netcoreapp3.1\Oefening 04 Berekenen BMI.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 04 Berekenen BMI\bin\Debug\netcoreapp3.1\Oefening 04 Berekenen BMI.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 04 Berekenen BMI\bin\Debug\netcoreapp3.1\Oefening 04 Berekenen BMI.dll
+D:\Programmeren in c#\Oefeningen\Oefening 04 Berekenen BMI\bin\Debug\netcoreapp3.1\Oefening 04 Berekenen BMI.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 04 Berekenen BMI\obj\Debug\netcoreapp3.1\Oefening 04 Berekenen BMI.csprojAssemblyReference.cache
+D:\Programmeren in c#\Oefeningen\Oefening 04 Berekenen BMI\obj\Debug\netcoreapp3.1\Oefening 04 Berekenen BMI.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 04 Berekenen BMI\obj\Debug\netcoreapp3.1\Oefening 04 Berekenen BMI.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 04 Berekenen BMI\obj\Debug\netcoreapp3.1\Oefening 04 Berekenen BMI.dll
+D:\Programmeren in c#\Oefeningen\Oefening 04 Berekenen BMI\obj\Debug\netcoreapp3.1\Oefening 04 Berekenen BMI.pdb
