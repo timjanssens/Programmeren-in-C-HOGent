@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 07 Maandnummer\bin\Debug\netcoreapp3.1\Oefening 07 Maandnummer.exe
+D:\Programmeren in c#\Oefeningen\Oefening 07 Maandnummer\bin\Debug\netcoreapp3.1\Oefening 07 Maandnummer.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 07 Maandnummer\bin\Debug\netcoreapp3.1\Oefening 07 Maandnummer.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 07 Maandnummer\bin\Debug\netcoreapp3.1\Oefening 07 Maandnummer.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 07 Maandnummer\bin\Debug\netcoreapp3.1\Oefening 07 Maandnummer.dll
+D:\Programmeren in c#\Oefeningen\Oefening 07 Maandnummer\bin\Debug\netcoreapp3.1\Oefening 07 Maandnummer.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 07 Maandnummer\obj\Debug\netcoreapp3.1\Oefening 07 Maandnummer.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 07 Maandnummer\obj\Debug\netcoreapp3.1\Oefening 07 Maandnummer.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 07 Maandnummer\obj\Debug\netcoreapp3.1\Oefening 07 Maandnummer.dll
+D:\Programmeren in c#\Oefeningen\Oefening 07 Maandnummer\obj\Debug\netcoreapp3.1\Oefening 07 Maandnummer.pdb

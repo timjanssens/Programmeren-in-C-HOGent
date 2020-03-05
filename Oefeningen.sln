@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 05 Quotient", "Oef
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 06 HelftOfDubbele TryParse", "Oefening 04 HelftOfDubbele TryParse\Oefening 06 HelftOfDubbele TryParse.csproj", "{D23F62F0-C7E1-485A-91C8-D7D2913BD138}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 07 Maandnummer", "Oefening 07 Maandnummer\Oefening 07 Maandnummer.csproj", "{17EFEA17-CAF4-4CB5-88C5-3CE09E14CCA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D23F62F0-C7E1-485A-91C8-D7D2913BD138}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D23F62F0-C7E1-485A-91C8-D7D2913BD138}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D23F62F0-C7E1-485A-91C8-D7D2913BD138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EFEA17-CAF4-4CB5-88C5-3CE09E14CCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EFEA17-CAF4-4CB5-88C5-3CE09E14CCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EFEA17-CAF4-4CB5-88C5-3CE09E14CCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EFEA17-CAF4-4CB5-88C5-3CE09E14CCA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
