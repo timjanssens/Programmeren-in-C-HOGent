@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 08 Schrikkeljaar\bin\Debug\netcoreapp3.1\Oefening 08 Schrikkeljaar.exe
+D:\Programmeren in c#\Oefeningen\Oefening 08 Schrikkeljaar\bin\Debug\netcoreapp3.1\Oefening 08 Schrikkeljaar.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 08 Schrikkeljaar\bin\Debug\netcoreapp3.1\Oefening 08 Schrikkeljaar.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 08 Schrikkeljaar\bin\Debug\netcoreapp3.1\Oefening 08 Schrikkeljaar.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 08 Schrikkeljaar\bin\Debug\netcoreapp3.1\Oefening 08 Schrikkeljaar.dll
+D:\Programmeren in c#\Oefeningen\Oefening 08 Schrikkeljaar\bin\Debug\netcoreapp3.1\Oefening 08 Schrikkeljaar.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 08 Schrikkeljaar\obj\Debug\netcoreapp3.1\Oefening 08 Schrikkeljaar.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 08 Schrikkeljaar\obj\Debug\netcoreapp3.1\Oefening 08 Schrikkeljaar.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 08 Schrikkeljaar\obj\Debug\netcoreapp3.1\Oefening 08 Schrikkeljaar.dll
+D:\Programmeren in c#\Oefeningen\Oefening 08 Schrikkeljaar\obj\Debug\netcoreapp3.1\Oefening 08 Schrikkeljaar.pdb
