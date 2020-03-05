@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 04 HelftOfDubbele TryParse\bin\Debug\netcoreapp3.1\Oefening 06 HelftOfDubbele TryParse.exe
+D:\Programmeren in c#\Oefeningen\Oefening 04 HelftOfDubbele TryParse\bin\Debug\netcoreapp3.1\Oefening 06 HelftOfDubbele TryParse.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 04 HelftOfDubbele TryParse\bin\Debug\netcoreapp3.1\Oefening 06 HelftOfDubbele TryParse.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 04 HelftOfDubbele TryParse\bin\Debug\netcoreapp3.1\Oefening 06 HelftOfDubbele TryParse.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 04 HelftOfDubbele TryParse\bin\Debug\netcoreapp3.1\Oefening 06 HelftOfDubbele TryParse.dll
+D:\Programmeren in c#\Oefeningen\Oefening 04 HelftOfDubbele TryParse\bin\Debug\netcoreapp3.1\Oefening 06 HelftOfDubbele TryParse.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 04 HelftOfDubbele TryParse\obj\Debug\netcoreapp3.1\Oefening 06 HelftOfDubbele TryParse.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 04 HelftOfDubbele TryParse\obj\Debug\netcoreapp3.1\Oefening 06 HelftOfDubbele TryParse.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 04 HelftOfDubbele TryParse\obj\Debug\netcoreapp3.1\Oefening 06 HelftOfDubbele TryParse.dll
+D:\Programmeren in c#\Oefeningen\Oefening 04 HelftOfDubbele TryParse\obj\Debug\netcoreapp3.1\Oefening 06 HelftOfDubbele TryParse.pdb

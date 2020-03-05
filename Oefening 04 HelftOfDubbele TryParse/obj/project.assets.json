@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programmeren in c#\\Oefeningen\\Oefening 5 Quotient\\Oefening 05 Quotient.csproj",
-      "projectName": "Oefening 05 Quotient",
-      "projectPath": "D:\\Programmeren in c#\\Oefeningen\\Oefening 5 Quotient\\Oefening 05 Quotient.csproj",
+      "projectUniqueName": "D:\\Programmeren in c#\\Oefeningen\\Oefening 04 HelftOfDubbele TryParse\\Oefening 06 HelftOfDubbele TryParse.csproj",
+      "projectName": "Oefening 06 HelftOfDubbele TryParse",
+      "projectPath": "D:\\Programmeren in c#\\Oefeningen\\Oefening 04 HelftOfDubbele TryParse\\Oefening 06 HelftOfDubbele TryParse.csproj",
       "packagesPath": "C:\\Users\\timja\\.nuget\\packages\\",
-      "outputPath": "D:\\Programmeren in c#\\Oefeningen\\Oefening 5 Quotient\\obj\\",
+      "outputPath": "D:\\Programmeren in c#\\Oefeningen\\Oefening 04 HelftOfDubbele TryParse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 03 Optellen muntst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 04 Berekenen BMI", "Oefening 04 Berekenen BMI\Oefening 04 Berekenen BMI.csproj", "{CC38D74F-1E26-4CCA-B323-6E9488FED371}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 5 Quotient", "Oefening 5 Quotient\Oefening 5 Quotient.csproj", "{2090F77E-D854-4A3F-B3A1-DC3CD8F3C640}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 05 Quotient", "Oefening 5 Quotient\Oefening 05 Quotient.csproj", "{2090F77E-D854-4A3F-B3A1-DC3CD8F3C640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 06 HelftOfDubbele TryParse", "Oefening 04 HelftOfDubbele TryParse\Oefening 06 HelftOfDubbele TryParse.csproj", "{D23F62F0-C7E1-485A-91C8-D7D2913BD138}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2090F77E-D854-4A3F-B3A1-DC3CD8F3C640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2090F77E-D854-4A3F-B3A1-DC3CD8F3C640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2090F77E-D854-4A3F-B3A1-DC3CD8F3C640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23F62F0-C7E1-485A-91C8-D7D2913BD138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23F62F0-C7E1-485A-91C8-D7D2913BD138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23F62F0-C7E1-485A-91C8-D7D2913BD138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23F62F0-C7E1-485A-91C8-D7D2913BD138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
