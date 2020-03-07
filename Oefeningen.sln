@@ -9,15 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 02", "Oefening 02\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 03 Optellen muntstukken", "Oefening 03 Optellen muntstukken\Oefening 03 Optellen muntstukken.csproj", "{35FC702A-C4E6-4D13-9AE2-40B546E7F322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 04 Berekenen BMI", "Oefening 04 Berekenen BMI\Oefening 04 Berekenen BMI.csproj", "{CC38D74F-1E26-4CCA-B323-6E9488FED371}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 04 Berekenen BMI", "Oefening 04 Berekenen BMI\Oefening 04 Berekenen BMI.csproj", "{CC38D74F-1E26-4CCA-B323-6E9488FED371}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 05 Quotient", "Oefening 5 Quotient\Oefening 05 Quotient.csproj", "{2090F77E-D854-4A3F-B3A1-DC3CD8F3C640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 05 Quotient", "Oefening 5 Quotient\Oefening 05 Quotient.csproj", "{2090F77E-D854-4A3F-B3A1-DC3CD8F3C640}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 06 HelftOfDubbele TryParse", "Oefening 04 HelftOfDubbele TryParse\Oefening 06 HelftOfDubbele TryParse.csproj", "{D23F62F0-C7E1-485A-91C8-D7D2913BD138}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 06 HelftOfDubbele TryParse", "Oefening 04 HelftOfDubbele TryParse\Oefening 06 HelftOfDubbele TryParse.csproj", "{D23F62F0-C7E1-485A-91C8-D7D2913BD138}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 07 Maandnummer", "Oefening 07 Maandnummer\Oefening 07 Maandnummer.csproj", "{17EFEA17-CAF4-4CB5-88C5-3CE09E14CCA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 07 Maandnummer", "Oefening 07 Maandnummer\Oefening 07 Maandnummer.csproj", "{17EFEA17-CAF4-4CB5-88C5-3CE09E14CCA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 08 Schrikkeljaar", "Oefening 08 Schrikkeljaar\Oefening 08 Schrikkeljaar.csproj", "{1EC365BC-0C07-4575-B80D-0B11BCD64833}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 08 Schrikkeljaar", "Oefening 08 Schrikkeljaar\Oefening 08 Schrikkeljaar.csproj", "{1EC365BC-0C07-4575-B80D-0B11BCD64833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 09 TwintigTemTien", "Oefening 09 TwintigTemTien\Oefening 09 TwintigTemTien.csproj", "{1687502C-BB25-467A-AD8A-B0CC8824D348}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{1EC365BC-0C07-4575-B80D-0B11BCD64833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EC365BC-0C07-4575-B80D-0B11BCD64833}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EC365BC-0C07-4575-B80D-0B11BCD64833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1687502C-BB25-467A-AD8A-B0CC8824D348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1687502C-BB25-467A-AD8A-B0CC8824D348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1687502C-BB25-467A-AD8A-B0CC8824D348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1687502C-BB25-467A-AD8A-B0CC8824D348}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

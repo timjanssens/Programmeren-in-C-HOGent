@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 09 TwintigTemTien\bin\Debug\netcoreapp3.1\Oefening 09 TwintigTemTien.exe
+D:\Programmeren in c#\Oefeningen\Oefening 09 TwintigTemTien\bin\Debug\netcoreapp3.1\Oefening 09 TwintigTemTien.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 09 TwintigTemTien\bin\Debug\netcoreapp3.1\Oefening 09 TwintigTemTien.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 09 TwintigTemTien\bin\Debug\netcoreapp3.1\Oefening 09 TwintigTemTien.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 09 TwintigTemTien\bin\Debug\netcoreapp3.1\Oefening 09 TwintigTemTien.dll
+D:\Programmeren in c#\Oefeningen\Oefening 09 TwintigTemTien\bin\Debug\netcoreapp3.1\Oefening 09 TwintigTemTien.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 09 TwintigTemTien\obj\Debug\netcoreapp3.1\Oefening 09 TwintigTemTien.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 09 TwintigTemTien\obj\Debug\netcoreapp3.1\Oefening 09 TwintigTemTien.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 09 TwintigTemTien\obj\Debug\netcoreapp3.1\Oefening 09 TwintigTemTien.dll
+D:\Programmeren in c#\Oefeningen\Oefening 09 TwintigTemTien\obj\Debug\netcoreapp3.1\Oefening 09 TwintigTemTien.pdb
