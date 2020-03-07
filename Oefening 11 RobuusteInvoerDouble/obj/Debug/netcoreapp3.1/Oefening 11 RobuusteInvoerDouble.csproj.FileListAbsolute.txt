@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 11 RobuusteInvoerDouble\bin\Debug\netcoreapp3.1\Oefening 11 RobuusteInvoerDouble.exe
+D:\Programmeren in c#\Oefeningen\Oefening 11 RobuusteInvoerDouble\bin\Debug\netcoreapp3.1\Oefening 11 RobuusteInvoerDouble.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 11 RobuusteInvoerDouble\bin\Debug\netcoreapp3.1\Oefening 11 RobuusteInvoerDouble.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 11 RobuusteInvoerDouble\bin\Debug\netcoreapp3.1\Oefening 11 RobuusteInvoerDouble.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 11 RobuusteInvoerDouble\bin\Debug\netcoreapp3.1\Oefening 11 RobuusteInvoerDouble.dll
+D:\Programmeren in c#\Oefeningen\Oefening 11 RobuusteInvoerDouble\bin\Debug\netcoreapp3.1\Oefening 11 RobuusteInvoerDouble.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 11 RobuusteInvoerDouble\obj\Debug\netcoreapp3.1\Oefening 11 RobuusteInvoerDouble.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 11 RobuusteInvoerDouble\obj\Debug\netcoreapp3.1\Oefening 11 RobuusteInvoerDouble.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 11 RobuusteInvoerDouble\obj\Debug\netcoreapp3.1\Oefening 11 RobuusteInvoerDouble.dll
+D:\Programmeren in c#\Oefeningen\Oefening 11 RobuusteInvoerDouble\obj\Debug\netcoreapp3.1\Oefening 11 RobuusteInvoerDouble.pdb

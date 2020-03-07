@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 10 TafelsVan7\bin\Debug\netcoreapp3.1\Oefening 10 TafelsVan7.exe
+D:\Programmeren in c#\Oefeningen\Oefening 10 TafelsVan7\bin\Debug\netcoreapp3.1\Oefening 10 TafelsVan7.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 10 TafelsVan7\bin\Debug\netcoreapp3.1\Oefening 10 TafelsVan7.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 10 TafelsVan7\bin\Debug\netcoreapp3.1\Oefening 10 TafelsVan7.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 10 TafelsVan7\bin\Debug\netcoreapp3.1\Oefening 10 TafelsVan7.dll
+D:\Programmeren in c#\Oefeningen\Oefening 10 TafelsVan7\bin\Debug\netcoreapp3.1\Oefening 10 TafelsVan7.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 10 TafelsVan7\obj\Debug\netcoreapp3.1\Oefening 10 TafelsVan7.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 10 TafelsVan7\obj\Debug\netcoreapp3.1\Oefening 10 TafelsVan7.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 10 TafelsVan7\obj\Debug\netcoreapp3.1\Oefening 10 TafelsVan7.dll
+D:\Programmeren in c#\Oefeningen\Oefening 10 TafelsVan7\obj\Debug\netcoreapp3.1\Oefening 10 TafelsVan7.pdb
