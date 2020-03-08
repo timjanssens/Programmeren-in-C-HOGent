@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 13 Permutaties\bin\Debug\netcoreapp3.1\Oefening 13 Permutaties.exe
+D:\Programmeren in c#\Oefeningen\Oefening 13 Permutaties\bin\Debug\netcoreapp3.1\Oefening 13 Permutaties.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 13 Permutaties\bin\Debug\netcoreapp3.1\Oefening 13 Permutaties.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 13 Permutaties\bin\Debug\netcoreapp3.1\Oefening 13 Permutaties.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 13 Permutaties\bin\Debug\netcoreapp3.1\Oefening 13 Permutaties.dll
+D:\Programmeren in c#\Oefeningen\Oefening 13 Permutaties\bin\Debug\netcoreapp3.1\Oefening 13 Permutaties.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 13 Permutaties\obj\Debug\netcoreapp3.1\Oefening 13 Permutaties.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 13 Permutaties\obj\Debug\netcoreapp3.1\Oefening 13 Permutaties.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 13 Permutaties\obj\Debug\netcoreapp3.1\Oefening 13 Permutaties.dll
+D:\Programmeren in c#\Oefeningen\Oefening 13 Permutaties\obj\Debug\netcoreapp3.1\Oefening 13 Permutaties.pdb

@@ -19,13 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 07 Maandnummer", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 08 Schrikkeljaar", "Oefening 08 Schrikkeljaar\Oefening 08 Schrikkeljaar.csproj", "{1EC365BC-0C07-4575-B80D-0B11BCD64833}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 09 TwintigTemTien", "Oefening 09 TwintigTemTien\Oefening 09 TwintigTemTien.csproj", "{1687502C-BB25-467A-AD8A-B0CC8824D348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 09 TwintigTemTien", "Oefening 09 TwintigTemTien\Oefening 09 TwintigTemTien.csproj", "{1687502C-BB25-467A-AD8A-B0CC8824D348}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 10 TafelsVan7", "Oefening 10 TafelsVan7\Oefening 10 TafelsVan7.csproj", "{E781294A-27A8-4FA1-BE15-C6C397FC19B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 10 TafelsVan7", "Oefening 10 TafelsVan7\Oefening 10 TafelsVan7.csproj", "{E781294A-27A8-4FA1-BE15-C6C397FC19B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 11 RobuusteInvoerDouble", "Oefening 11 RobuusteInvoerDouble\Oefening 11 RobuusteInvoerDouble.csproj", "{F661AC6D-11E4-4099-8F70-BB812EE06F6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 11 RobuusteInvoerDouble", "Oefening 11 RobuusteInvoerDouble\Oefening 11 RobuusteInvoerDouble.csproj", "{F661AC6D-11E4-4099-8F70-BB812EE06F6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 12 RobuusteInvoerDouble", "Oefening 12 RobuusteInvoerDouble\Oefening 12 RobuusteInvoerDouble.csproj", "{26668477-98D2-4B14-AEBF-49A78F6C8EB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 12 RobuusteInvoerDouble", "Oefening 12 RobuusteInvoerDouble\Oefening 12 RobuusteInvoerDouble.csproj", "{26668477-98D2-4B14-AEBF-49A78F6C8EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 13 Permutaties", "Oefening 13 Permutaties\Oefening 13 Permutaties.csproj", "{F87811D9-39C0-40F5-9EE6-ED2D959A6080}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{26668477-98D2-4B14-AEBF-49A78F6C8EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26668477-98D2-4B14-AEBF-49A78F6C8EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26668477-98D2-4B14-AEBF-49A78F6C8EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87811D9-39C0-40F5-9EE6-ED2D959A6080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87811D9-39C0-40F5-9EE6-ED2D959A6080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87811D9-39C0-40F5-9EE6-ED2D959A6080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87811D9-39C0-40F5-9EE6-ED2D959A6080}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
