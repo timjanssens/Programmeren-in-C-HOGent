@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 19 Driehoek\bin\Debug\netcoreapp3.1\Oefening 19 Driehoek.exe
+D:\Programmeren in c#\Oefeningen\Oefening 19 Driehoek\bin\Debug\netcoreapp3.1\Oefening 19 Driehoek.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 19 Driehoek\bin\Debug\netcoreapp3.1\Oefening 19 Driehoek.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 19 Driehoek\bin\Debug\netcoreapp3.1\Oefening 19 Driehoek.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 19 Driehoek\bin\Debug\netcoreapp3.1\Oefening 19 Driehoek.dll
+D:\Programmeren in c#\Oefeningen\Oefening 19 Driehoek\bin\Debug\netcoreapp3.1\Oefening 19 Driehoek.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 19 Driehoek\obj\Debug\netcoreapp3.1\Oefening 19 Driehoek.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 19 Driehoek\obj\Debug\netcoreapp3.1\Oefening 19 Driehoek.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 19 Driehoek\obj\Debug\netcoreapp3.1\Oefening 19 Driehoek.dll
+D:\Programmeren in c#\Oefeningen\Oefening 19 Driehoek\obj\Debug\netcoreapp3.1\Oefening 19 Driehoek.pdb
