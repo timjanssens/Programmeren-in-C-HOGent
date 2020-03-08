@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 32 BrutoNaarNetto\bin\Debug\netcoreapp3.1\Oefening 32 BrutoNaarNetto.exe
+D:\Programmeren in c#\Oefeningen\Oefening 32 BrutoNaarNetto\bin\Debug\netcoreapp3.1\Oefening 32 BrutoNaarNetto.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 32 BrutoNaarNetto\bin\Debug\netcoreapp3.1\Oefening 32 BrutoNaarNetto.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 32 BrutoNaarNetto\bin\Debug\netcoreapp3.1\Oefening 32 BrutoNaarNetto.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 32 BrutoNaarNetto\bin\Debug\netcoreapp3.1\Oefening 32 BrutoNaarNetto.dll
+D:\Programmeren in c#\Oefeningen\Oefening 32 BrutoNaarNetto\bin\Debug\netcoreapp3.1\Oefening 32 BrutoNaarNetto.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 32 BrutoNaarNetto\obj\Debug\netcoreapp3.1\Oefening 32 BrutoNaarNetto.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 32 BrutoNaarNetto\obj\Debug\netcoreapp3.1\Oefening 32 BrutoNaarNetto.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 32 BrutoNaarNetto\obj\Debug\netcoreapp3.1\Oefening 32 BrutoNaarNetto.dll
+D:\Programmeren in c#\Oefeningen\Oefening 32 BrutoNaarNetto\obj\Debug\netcoreapp3.1\Oefening 32 BrutoNaarNetto.pdb

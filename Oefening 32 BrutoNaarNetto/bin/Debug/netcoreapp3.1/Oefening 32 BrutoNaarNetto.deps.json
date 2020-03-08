@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Oefening 32 BrutoNaarNetto/1.0.0": {
+        "runtime": {
+          "Oefening 32 BrutoNaarNetto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oefening 32 BrutoNaarNetto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
