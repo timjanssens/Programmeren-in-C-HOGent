@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 31 Foreach\obj\Debug\netcoreapp3.1\Oefening 31 Foreach.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 31 Foreach\obj\Debug\netcoreapp3.1\Oefening 31 Foreach.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 31 Foreach\bin\Debug\netcoreapp3.1\Oefening 31 Foreach.exe
+D:\Programmeren in c#\Oefeningen\Oefening 31 Foreach\bin\Debug\netcoreapp3.1\Oefening 31 Foreach.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 31 Foreach\bin\Debug\netcoreapp3.1\Oefening 31 Foreach.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 31 Foreach\bin\Debug\netcoreapp3.1\Oefening 31 Foreach.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 31 Foreach\bin\Debug\netcoreapp3.1\Oefening 31 Foreach.dll
+D:\Programmeren in c#\Oefeningen\Oefening 31 Foreach\bin\Debug\netcoreapp3.1\Oefening 31 Foreach.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 31 Foreach\obj\Debug\netcoreapp3.1\Oefening 31 Foreach.dll
+D:\Programmeren in c#\Oefeningen\Oefening 31 Foreach\obj\Debug\netcoreapp3.1\Oefening 31 Foreach.pdb

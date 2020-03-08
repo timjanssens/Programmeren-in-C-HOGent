@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 29 TabelOpvullen",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 30 ArrayInitializer", "Oefening 30 ArrayInitializer\Oefening 30 ArrayInitializer.csproj", "{2E0297A5-F47B-4E80-9256-8973C02B1180}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 31 Foreach", "Oefening 31 Foreach\Oefening 31 Foreach.csproj", "{E5A6F5D7-7244-4273-AD55-B01B2673D522}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{2E0297A5-F47B-4E80-9256-8973C02B1180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E0297A5-F47B-4E80-9256-8973C02B1180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E0297A5-F47B-4E80-9256-8973C02B1180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A6F5D7-7244-4273-AD55-B01B2673D522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A6F5D7-7244-4273-AD55-B01B2673D522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A6F5D7-7244-4273-AD55-B01B2673D522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A6F5D7-7244-4273-AD55-B01B2673D522}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
