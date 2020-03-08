@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 25 FeestdagenNaam"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 26 FeestdagenDatum", "Oefening 26 FeestdagenDatum\Oefening 26 FeestdagenDatum.csproj", "{AFEC4445-BDB2-4A81-BC67-52D278DC843E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 27 GemeenteNamenEnPostcodes", "Oefening 27 GemeenteNamenEnPostcodes\Oefening 27 GemeenteNamenEnPostcodes.csproj", "{222E2C9F-B66D-46F0-8FA7-D02DEDDFB2CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{AFEC4445-BDB2-4A81-BC67-52D278DC843E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFEC4445-BDB2-4A81-BC67-52D278DC843E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFEC4445-BDB2-4A81-BC67-52D278DC843E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222E2C9F-B66D-46F0-8FA7-D02DEDDFB2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222E2C9F-B66D-46F0-8FA7-D02DEDDFB2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222E2C9F-B66D-46F0-8FA7-D02DEDDFB2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222E2C9F-B66D-46F0-8FA7-D02DEDDFB2CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
