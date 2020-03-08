@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 27 GemeenteNamenEn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 28 AantalDagenInElkeMaand", "Oefening 28 AantalDagenInElkeMaand\Oefening 28 AantalDagenInElkeMaand.csproj", "{75BDF94A-CE1A-4095-BAF4-E88B7783E22F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 29 TabelOpvullen", "Oefening 29 TabelOpvullen\Oefening 29 TabelOpvullen.csproj", "{526BC80A-103F-4C73-947D-CE9DA88610BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{75BDF94A-CE1A-4095-BAF4-E88B7783E22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75BDF94A-CE1A-4095-BAF4-E88B7783E22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75BDF94A-CE1A-4095-BAF4-E88B7783E22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526BC80A-103F-4C73-947D-CE9DA88610BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526BC80A-103F-4C73-947D-CE9DA88610BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526BC80A-103F-4C73-947D-CE9DA88610BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526BC80A-103F-4C73-947D-CE9DA88610BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
