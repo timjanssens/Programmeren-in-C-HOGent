@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 23 SecondenLijst\bin\Debug\netcoreapp3.1\Oefening 23 SecondenLijst.exe
+D:\Programmeren in c#\Oefeningen\Oefening 23 SecondenLijst\bin\Debug\netcoreapp3.1\Oefening 23 SecondenLijst.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 23 SecondenLijst\bin\Debug\netcoreapp3.1\Oefening 23 SecondenLijst.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 23 SecondenLijst\bin\Debug\netcoreapp3.1\Oefening 23 SecondenLijst.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 23 SecondenLijst\bin\Debug\netcoreapp3.1\Oefening 23 SecondenLijst.dll
+D:\Programmeren in c#\Oefeningen\Oefening 23 SecondenLijst\bin\Debug\netcoreapp3.1\Oefening 23 SecondenLijst.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 23 SecondenLijst\obj\Debug\netcoreapp3.1\Oefening 23 SecondenLijst.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 23 SecondenLijst\obj\Debug\netcoreapp3.1\Oefening 23 SecondenLijst.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 23 SecondenLijst\obj\Debug\netcoreapp3.1\Oefening 23 SecondenLijst.dll
+D:\Programmeren in c#\Oefeningen\Oefening 23 SecondenLijst\obj\Debug\netcoreapp3.1\Oefening 23 SecondenLijst.pdb
