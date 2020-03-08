@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 19 Driehoek", "Oef
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 20 GrootstIngevoerdeWaarde", "Oefening 20 GrootstIngevoerdeWaarde\Oefening 20 GrootstIngevoerdeWaarde.csproj", "{D3EAF3EB-1A6D-4CCC-82F5-0CD238DA3B62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 21 Som", "Oefening 21 Som\Oefening 21 Som.csproj", "{FE0FF57D-4F0E-4D38-83B3-917BD25F1B77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{D3EAF3EB-1A6D-4CCC-82F5-0CD238DA3B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3EAF3EB-1A6D-4CCC-82F5-0CD238DA3B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3EAF3EB-1A6D-4CCC-82F5-0CD238DA3B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0FF57D-4F0E-4D38-83B3-917BD25F1B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0FF57D-4F0E-4D38-83B3-917BD25F1B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0FF57D-4F0E-4D38-83B3-917BD25F1B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0FF57D-4F0E-4D38-83B3-917BD25F1B77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
