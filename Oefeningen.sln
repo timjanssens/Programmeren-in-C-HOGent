@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 28 AantalDagenInEl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 29 TabelOpvullen", "Oefening 29 TabelOpvullen\Oefening 29 TabelOpvullen.csproj", "{526BC80A-103F-4C73-947D-CE9DA88610BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 30 ArrayInitializer", "Oefening 30 ArrayInitializer\Oefening 30 ArrayInitializer.csproj", "{2E0297A5-F47B-4E80-9256-8973C02B1180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{526BC80A-103F-4C73-947D-CE9DA88610BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{526BC80A-103F-4C73-947D-CE9DA88610BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{526BC80A-103F-4C73-947D-CE9DA88610BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0297A5-F47B-4E80-9256-8973C02B1180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0297A5-F47B-4E80-9256-8973C02B1180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0297A5-F47B-4E80-9256-8973C02B1180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0297A5-F47B-4E80-9256-8973C02B1180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 30 ArrayInitializer\bin\Debug\netcoreapp3.1\Oefening 30 ArrayInitializer.exe
+D:\Programmeren in c#\Oefeningen\Oefening 30 ArrayInitializer\bin\Debug\netcoreapp3.1\Oefening 30 ArrayInitializer.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 30 ArrayInitializer\bin\Debug\netcoreapp3.1\Oefening 30 ArrayInitializer.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 30 ArrayInitializer\bin\Debug\netcoreapp3.1\Oefening 30 ArrayInitializer.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 30 ArrayInitializer\bin\Debug\netcoreapp3.1\Oefening 30 ArrayInitializer.dll
+D:\Programmeren in c#\Oefeningen\Oefening 30 ArrayInitializer\bin\Debug\netcoreapp3.1\Oefening 30 ArrayInitializer.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 30 ArrayInitializer\obj\Debug\netcoreapp3.1\Oefening 30 ArrayInitializer.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 30 ArrayInitializer\obj\Debug\netcoreapp3.1\Oefening 30 ArrayInitializer.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 30 ArrayInitializer\obj\Debug\netcoreapp3.1\Oefening 30 ArrayInitializer.dll
+D:\Programmeren in c#\Oefeningen\Oefening 30 ArrayInitializer\obj\Debug\netcoreapp3.1\Oefening 30 ArrayInitializer.pdb
