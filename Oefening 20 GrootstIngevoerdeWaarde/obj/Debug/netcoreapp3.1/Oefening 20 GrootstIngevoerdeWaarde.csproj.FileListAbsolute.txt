@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 20 GrootstIngevoerdeWaarde\bin\Debug\netcoreapp3.1\Oefening 20 GrootstIngevoerdeWaarde.exe
+D:\Programmeren in c#\Oefeningen\Oefening 20 GrootstIngevoerdeWaarde\bin\Debug\netcoreapp3.1\Oefening 20 GrootstIngevoerdeWaarde.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 20 GrootstIngevoerdeWaarde\bin\Debug\netcoreapp3.1\Oefening 20 GrootstIngevoerdeWaarde.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 20 GrootstIngevoerdeWaarde\bin\Debug\netcoreapp3.1\Oefening 20 GrootstIngevoerdeWaarde.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 20 GrootstIngevoerdeWaarde\bin\Debug\netcoreapp3.1\Oefening 20 GrootstIngevoerdeWaarde.dll
+D:\Programmeren in c#\Oefeningen\Oefening 20 GrootstIngevoerdeWaarde\bin\Debug\netcoreapp3.1\Oefening 20 GrootstIngevoerdeWaarde.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 20 GrootstIngevoerdeWaarde\obj\Debug\netcoreapp3.1\Oefening 20 GrootstIngevoerdeWaarde.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 20 GrootstIngevoerdeWaarde\obj\Debug\netcoreapp3.1\Oefening 20 GrootstIngevoerdeWaarde.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 20 GrootstIngevoerdeWaarde\obj\Debug\netcoreapp3.1\Oefening 20 GrootstIngevoerdeWaarde.dll
+D:\Programmeren in c#\Oefeningen\Oefening 20 GrootstIngevoerdeWaarde\obj\Debug\netcoreapp3.1\Oefening 20 GrootstIngevoerdeWaarde.pdb
