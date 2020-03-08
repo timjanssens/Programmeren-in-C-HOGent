@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Oefening 15 EvenOneven/1.0.0": {
+        "runtime": {
+          "Oefening 15 EvenOneven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oefening 15 EvenOneven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
