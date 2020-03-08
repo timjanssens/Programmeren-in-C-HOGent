@@ -1,0 +1,11 @@
+D:\Programmeren in c#\Oefeningen\Oefening 21 Rekenmachine\bin\Debug\netcoreapp3.1\Oefening 22 Rekenmachine.exe
+D:\Programmeren in c#\Oefeningen\Oefening 21 Rekenmachine\bin\Debug\netcoreapp3.1\Oefening 22 Rekenmachine.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 21 Rekenmachine\bin\Debug\netcoreapp3.1\Oefening 22 Rekenmachine.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 21 Rekenmachine\bin\Debug\netcoreapp3.1\Oefening 22 Rekenmachine.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 21 Rekenmachine\bin\Debug\netcoreapp3.1\Oefening 22 Rekenmachine.dll
+D:\Programmeren in c#\Oefeningen\Oefening 21 Rekenmachine\bin\Debug\netcoreapp3.1\Oefening 22 Rekenmachine.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 21 Rekenmachine\obj\Debug\netcoreapp3.1\Oefening 22 Rekenmachine.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 21 Rekenmachine\obj\Debug\netcoreapp3.1\Oefening 22 Rekenmachine.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 21 Rekenmachine\obj\Debug\netcoreapp3.1\Oefening 22 Rekenmachine.dll
+D:\Programmeren in c#\Oefeningen\Oefening 21 Rekenmachine\obj\Debug\netcoreapp3.1\Oefening 22 Rekenmachine.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 21 Rekenmachine\obj\Debug\netcoreapp3.1\Oefening 22 Rekenmachine.csprojAssemblyReference.cache

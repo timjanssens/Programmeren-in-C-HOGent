@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 21 Som\bin\Debug\netcoreapp3.1\Oefening 22 Som.exe
+D:\Programmeren in c#\Oefeningen\Oefening 21 Som\bin\Debug\netcoreapp3.1\Oefening 22 Som.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 21 Som\bin\Debug\netcoreapp3.1\Oefening 22 Som.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 21 Som\bin\Debug\netcoreapp3.1\Oefening 22 Som.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 21 Som\bin\Debug\netcoreapp3.1\Oefening 22 Som.dll
+D:\Programmeren in c#\Oefeningen\Oefening 21 Som\bin\Debug\netcoreapp3.1\Oefening 22 Som.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 21 Som\obj\Debug\netcoreapp3.1\Oefening 22 Som.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 21 Som\obj\Debug\netcoreapp3.1\Oefening 22 Som.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 21 Som\obj\Debug\netcoreapp3.1\Oefening 22 Som.dll
+D:\Programmeren in c#\Oefeningen\Oefening 21 Som\obj\Debug\netcoreapp3.1\Oefening 22 Som.pdb
