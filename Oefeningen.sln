@@ -27,45 +27,49 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 11 RobuusteInvoerD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 12 RobuusteInvoerDouble", "Oefening 12 RobuusteInvoerDouble\Oefening 12 RobuusteInvoerDouble.csproj", "{26668477-98D2-4B14-AEBF-49A78F6C8EB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 13 Permutaties", "Oefening 13 Permutaties\Oefening 13 Permutaties.csproj", "{F87811D9-39C0-40F5-9EE6-ED2D959A6080}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 13 Permutaties", "Oefening 13 Permutaties\Oefening 13 Permutaties.csproj", "{F87811D9-39C0-40F5-9EE6-ED2D959A6080}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 14 Fibonacci", "Oefening 14 Fibonacci\Oefening 14 Fibonacci.csproj", "{88D31416-40C2-4D13-80CE-8740879809E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 14 Fibonacci", "Oefening 14 Fibonacci\Oefening 14 Fibonacci.csproj", "{88D31416-40C2-4D13-80CE-8740879809E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 15 EvenOneven", "Oefening 15 EvenOneven\Oefening 15 EvenOneven.csproj", "{ED8BC8C5-67C6-4E4A-8E85-B2A0335900EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 15 EvenOneven", "Oefening 15 EvenOneven\Oefening 15 EvenOneven.csproj", "{ED8BC8C5-67C6-4E4A-8E85-B2A0335900EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 16 ReeksVanKleinNaarGroot", "Oefening 16 ReeksVanKleinNaarGroot\Oefening 16 ReeksVanKleinNaarGroot.csproj", "{CFAEFD85-6C0B-4A48-8DB6-DC489A45D9AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 16 ReeksVanKleinNaarGroot", "Oefening 16 ReeksVanKleinNaarGroot\Oefening 16 ReeksVanKleinNaarGroot.csproj", "{CFAEFD85-6C0B-4A48-8DB6-DC489A45D9AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 17 Tellen", "Oefening 17 Tellen\Oefening 17 Tellen.csproj", "{25412D82-22DE-4B8C-8447-DA5ECA8F06FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 17 Tellen", "Oefening 17 Tellen\Oefening 17 Tellen.csproj", "{25412D82-22DE-4B8C-8447-DA5ECA8F06FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 18 Vierkant", "Oefening 18 Vierkant\Oefening 18 Vierkant.csproj", "{EE570FC2-04B2-44D4-B3F4-BEE0CD4E345E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 18 Vierkant", "Oefening 18 Vierkant\Oefening 18 Vierkant.csproj", "{EE570FC2-04B2-44D4-B3F4-BEE0CD4E345E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 19 Driehoek", "Oefening 19 Driehoek\Oefening 19 Driehoek.csproj", "{57A6A639-C4EE-4264-952B-A842E3B0E8FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 19 Driehoek", "Oefening 19 Driehoek\Oefening 19 Driehoek.csproj", "{57A6A639-C4EE-4264-952B-A842E3B0E8FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 20 GrootstIngevoerdeWaarde", "Oefening 20 GrootstIngevoerdeWaarde\Oefening 20 GrootstIngevoerdeWaarde.csproj", "{D3EAF3EB-1A6D-4CCC-82F5-0CD238DA3B62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 20 GrootstIngevoerdeWaarde", "Oefening 20 GrootstIngevoerdeWaarde\Oefening 20 GrootstIngevoerdeWaarde.csproj", "{D3EAF3EB-1A6D-4CCC-82F5-0CD238DA3B62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 21 Som", "Oefening 21 Som\Oefening 21 Som.csproj", "{FE0FF57D-4F0E-4D38-83B3-917BD25F1B77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 21 Som", "Oefening 21 Som\Oefening 21 Som.csproj", "{FE0FF57D-4F0E-4D38-83B3-917BD25F1B77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 22 Rekenmachine", "Oefening 21 Rekenmachine\Oefening 22 Rekenmachine.csproj", "{2E4C41D3-AED0-4C0B-8E67-F62FFE4FC4DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 22 Rekenmachine", "Oefening 21 Rekenmachine\Oefening 22 Rekenmachine.csproj", "{2E4C41D3-AED0-4C0B-8E67-F62FFE4FC4DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 23 SecondenLijst", "Oefening 23 SecondenLijst\Oefening 23 SecondenLijst.csproj", "{2A5E9F32-5A55-40A8-99AA-2CC19E714A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 23 SecondenLijst", "Oefening 23 SecondenLijst\Oefening 23 SecondenLijst.csproj", "{2A5E9F32-5A55-40A8-99AA-2CC19E714A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 24 Rechthoek", "Oefening 24 Rechthoek\Oefening 24 Rechthoek.csproj", "{69375AD4-2132-469C-9682-EF812CF0F7F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 24 Rechthoek", "Oefening 24 Rechthoek\Oefening 24 Rechthoek.csproj", "{69375AD4-2132-469C-9682-EF812CF0F7F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 25 FeestdagenNaam", "Oefening 25 FeestdagenNaam\Oefening 25 FeestdagenNaam.csproj", "{41C76A62-4B19-49EB-9DE9-D1E73697933F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 25 FeestdagenNaam", "Oefening 25 FeestdagenNaam\Oefening 25 FeestdagenNaam.csproj", "{41C76A62-4B19-49EB-9DE9-D1E73697933F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 26 FeestdagenDatum", "Oefening 26 FeestdagenDatum\Oefening 26 FeestdagenDatum.csproj", "{AFEC4445-BDB2-4A81-BC67-52D278DC843E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 26 FeestdagenDatum", "Oefening 26 FeestdagenDatum\Oefening 26 FeestdagenDatum.csproj", "{AFEC4445-BDB2-4A81-BC67-52D278DC843E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 27 GemeenteNamenEnPostcodes", "Oefening 27 GemeenteNamenEnPostcodes\Oefening 27 GemeenteNamenEnPostcodes.csproj", "{222E2C9F-B66D-46F0-8FA7-D02DEDDFB2CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 27 GemeenteNamenEnPostcodes", "Oefening 27 GemeenteNamenEnPostcodes\Oefening 27 GemeenteNamenEnPostcodes.csproj", "{222E2C9F-B66D-46F0-8FA7-D02DEDDFB2CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 28 AantalDagenInElkeMaand", "Oefening 28 AantalDagenInElkeMaand\Oefening 28 AantalDagenInElkeMaand.csproj", "{75BDF94A-CE1A-4095-BAF4-E88B7783E22F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 28 AantalDagenInElkeMaand", "Oefening 28 AantalDagenInElkeMaand\Oefening 28 AantalDagenInElkeMaand.csproj", "{75BDF94A-CE1A-4095-BAF4-E88B7783E22F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 29 TabelOpvullen", "Oefening 29 TabelOpvullen\Oefening 29 TabelOpvullen.csproj", "{526BC80A-103F-4C73-947D-CE9DA88610BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 29 TabelOpvullen", "Oefening 29 TabelOpvullen\Oefening 29 TabelOpvullen.csproj", "{526BC80A-103F-4C73-947D-CE9DA88610BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 30 ArrayInitializer", "Oefening 30 ArrayInitializer\Oefening 30 ArrayInitializer.csproj", "{2E0297A5-F47B-4E80-9256-8973C02B1180}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 30 ArrayInitializer", "Oefening 30 ArrayInitializer\Oefening 30 ArrayInitializer.csproj", "{2E0297A5-F47B-4E80-9256-8973C02B1180}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 31 Foreach", "Oefening 31 Foreach\Oefening 31 Foreach.csproj", "{E5A6F5D7-7244-4273-AD55-B01B2673D522}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 31 Foreach", "Oefening 31 Foreach\Oefening 31 Foreach.csproj", "{E5A6F5D7-7244-4273-AD55-B01B2673D522}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 32 BrutoNaarNetto", "Oefening 32 BrutoNaarNetto\Oefening 32 BrutoNaarNetto.csproj", "{9808C4D7-E675-493A-8AE3-D0B7C4B74867}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 32 BrutoNaarNetto", "Oefening 32 BrutoNaarNetto\Oefening 32 BrutoNaarNetto.csproj", "{9808C4D7-E675-493A-8AE3-D0B7C4B74867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 33 Aansprekingen", "Oefening 33 Aansprekingen\Oefening 33 Aansprekingen.csproj", "{2647DCB4-DAD6-481C-A7DB-BA2EE8FBACE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 34 Fibonacci", "Oefening 34 Fibonacci\Oefening 34 Fibonacci.csproj", "{8936DE03-1909-4C03-9F4C-91CC884A7B32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +205,14 @@ Global
 		{9808C4D7-E675-493A-8AE3-D0B7C4B74867}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9808C4D7-E675-493A-8AE3-D0B7C4B74867}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9808C4D7-E675-493A-8AE3-D0B7C4B74867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2647DCB4-DAD6-481C-A7DB-BA2EE8FBACE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2647DCB4-DAD6-481C-A7DB-BA2EE8FBACE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2647DCB4-DAD6-481C-A7DB-BA2EE8FBACE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2647DCB4-DAD6-481C-A7DB-BA2EE8FBACE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8936DE03-1909-4C03-9F4C-91CC884A7B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8936DE03-1909-4C03-9F4C-91CC884A7B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8936DE03-1909-4C03-9F4C-91CC884A7B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8936DE03-1909-4C03-9F4C-91CC884A7B32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

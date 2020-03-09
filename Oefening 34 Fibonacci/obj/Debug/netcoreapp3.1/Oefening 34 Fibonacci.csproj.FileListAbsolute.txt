@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 34 Fibonacci\bin\Debug\netcoreapp3.1\Oefening 34 Fibonacci.exe
+D:\Programmeren in c#\Oefeningen\Oefening 34 Fibonacci\bin\Debug\netcoreapp3.1\Oefening 34 Fibonacci.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 34 Fibonacci\bin\Debug\netcoreapp3.1\Oefening 34 Fibonacci.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 34 Fibonacci\bin\Debug\netcoreapp3.1\Oefening 34 Fibonacci.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 34 Fibonacci\bin\Debug\netcoreapp3.1\Oefening 34 Fibonacci.dll
+D:\Programmeren in c#\Oefeningen\Oefening 34 Fibonacci\bin\Debug\netcoreapp3.1\Oefening 34 Fibonacci.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 34 Fibonacci\obj\Debug\netcoreapp3.1\Oefening 34 Fibonacci.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 34 Fibonacci\obj\Debug\netcoreapp3.1\Oefening 34 Fibonacci.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 34 Fibonacci\obj\Debug\netcoreapp3.1\Oefening 34 Fibonacci.dll
+D:\Programmeren in c#\Oefeningen\Oefening 34 Fibonacci\obj\Debug\netcoreapp3.1\Oefening 34 Fibonacci.pdb
