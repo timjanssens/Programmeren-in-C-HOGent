@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 35 NamenTabel\bin\Debug\netcoreapp3.1\Oefening 35 NamenTabel.exe
+D:\Programmeren in c#\Oefeningen\Oefening 35 NamenTabel\bin\Debug\netcoreapp3.1\Oefening 35 NamenTabel.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 35 NamenTabel\bin\Debug\netcoreapp3.1\Oefening 35 NamenTabel.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 35 NamenTabel\bin\Debug\netcoreapp3.1\Oefening 35 NamenTabel.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 35 NamenTabel\bin\Debug\netcoreapp3.1\Oefening 35 NamenTabel.dll
+D:\Programmeren in c#\Oefeningen\Oefening 35 NamenTabel\bin\Debug\netcoreapp3.1\Oefening 35 NamenTabel.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 35 NamenTabel\obj\Debug\netcoreapp3.1\Oefening 35 NamenTabel.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 35 NamenTabel\obj\Debug\netcoreapp3.1\Oefening 35 NamenTabel.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 35 NamenTabel\obj\Debug\netcoreapp3.1\Oefening 35 NamenTabel.dll
+D:\Programmeren in c#\Oefeningen\Oefening 35 NamenTabel\obj\Debug\netcoreapp3.1\Oefening 35 NamenTabel.pdb
