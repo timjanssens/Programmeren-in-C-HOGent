@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 45 FahrenheitMethod\bin\Debug\netcoreapp3.1\Oefening 46 FahrenheitMethod.exe
+D:\Programmeren in c#\Oefeningen\Oefening 45 FahrenheitMethod\bin\Debug\netcoreapp3.1\Oefening 46 FahrenheitMethod.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 45 FahrenheitMethod\bin\Debug\netcoreapp3.1\Oefening 46 FahrenheitMethod.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 45 FahrenheitMethod\bin\Debug\netcoreapp3.1\Oefening 46 FahrenheitMethod.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 45 FahrenheitMethod\bin\Debug\netcoreapp3.1\Oefening 46 FahrenheitMethod.dll
+D:\Programmeren in c#\Oefeningen\Oefening 45 FahrenheitMethod\bin\Debug\netcoreapp3.1\Oefening 46 FahrenheitMethod.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 45 FahrenheitMethod\obj\Debug\netcoreapp3.1\Oefening 46 FahrenheitMethod.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 45 FahrenheitMethod\obj\Debug\netcoreapp3.1\Oefening 46 FahrenheitMethod.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 45 FahrenheitMethod\obj\Debug\netcoreapp3.1\Oefening 46 FahrenheitMethod.dll
+D:\Programmeren in c#\Oefeningen\Oefening 45 FahrenheitMethod\obj\Debug\netcoreapp3.1\Oefening 46 FahrenheitMethod.pdb

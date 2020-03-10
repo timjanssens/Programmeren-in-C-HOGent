@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Oefening 46 FahrenheitMethod/1.0.0": {
+        "runtime": {
+          "Oefening 46 FahrenheitMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oefening 46 FahrenheitMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
