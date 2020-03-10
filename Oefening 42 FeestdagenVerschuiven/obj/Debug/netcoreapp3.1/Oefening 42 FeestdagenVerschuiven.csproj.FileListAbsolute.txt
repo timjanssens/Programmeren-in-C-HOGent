@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 42 FeestdagenVerschuiven\bin\Debug\netcoreapp3.1\Oefening 42 FeestdagenVerschuiven.exe
+D:\Programmeren in c#\Oefeningen\Oefening 42 FeestdagenVerschuiven\bin\Debug\netcoreapp3.1\Oefening 42 FeestdagenVerschuiven.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 42 FeestdagenVerschuiven\bin\Debug\netcoreapp3.1\Oefening 42 FeestdagenVerschuiven.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 42 FeestdagenVerschuiven\bin\Debug\netcoreapp3.1\Oefening 42 FeestdagenVerschuiven.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 42 FeestdagenVerschuiven\bin\Debug\netcoreapp3.1\Oefening 42 FeestdagenVerschuiven.dll
+D:\Programmeren in c#\Oefeningen\Oefening 42 FeestdagenVerschuiven\bin\Debug\netcoreapp3.1\Oefening 42 FeestdagenVerschuiven.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 42 FeestdagenVerschuiven\obj\Debug\netcoreapp3.1\Oefening 42 FeestdagenVerschuiven.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 42 FeestdagenVerschuiven\obj\Debug\netcoreapp3.1\Oefening 42 FeestdagenVerschuiven.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 42 FeestdagenVerschuiven\obj\Debug\netcoreapp3.1\Oefening 42 FeestdagenVerschuiven.dll
+D:\Programmeren in c#\Oefeningen\Oefening 42 FeestdagenVerschuiven\obj\Debug\netcoreapp3.1\Oefening 42 FeestdagenVerschuiven.pdb
