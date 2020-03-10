@@ -1,0 +1,11 @@
+D:\Programmeren in c#\Oefeningen\Oefening 37 TemperatuurZoeken\bin\Debug\netcoreapp3.1\Oefening 37 TemperatuurZoeken.exe
+D:\Programmeren in c#\Oefeningen\Oefening 37 TemperatuurZoeken\bin\Debug\netcoreapp3.1\Oefening 37 TemperatuurZoeken.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 37 TemperatuurZoeken\bin\Debug\netcoreapp3.1\Oefening 37 TemperatuurZoeken.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 37 TemperatuurZoeken\bin\Debug\netcoreapp3.1\Oefening 37 TemperatuurZoeken.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 37 TemperatuurZoeken\bin\Debug\netcoreapp3.1\Oefening 37 TemperatuurZoeken.dll
+D:\Programmeren in c#\Oefeningen\Oefening 37 TemperatuurZoeken\bin\Debug\netcoreapp3.1\Oefening 37 TemperatuurZoeken.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 37 TemperatuurZoeken\obj\Debug\netcoreapp3.1\Oefening 37 TemperatuurZoeken.csprojAssemblyReference.cache
+D:\Programmeren in c#\Oefeningen\Oefening 37 TemperatuurZoeken\obj\Debug\netcoreapp3.1\Oefening 37 TemperatuurZoeken.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 37 TemperatuurZoeken\obj\Debug\netcoreapp3.1\Oefening 37 TemperatuurZoeken.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 37 TemperatuurZoeken\obj\Debug\netcoreapp3.1\Oefening 37 TemperatuurZoeken.dll
+D:\Programmeren in c#\Oefeningen\Oefening 37 TemperatuurZoeken\obj\Debug\netcoreapp3.1\Oefening 37 TemperatuurZoeken.pdb
