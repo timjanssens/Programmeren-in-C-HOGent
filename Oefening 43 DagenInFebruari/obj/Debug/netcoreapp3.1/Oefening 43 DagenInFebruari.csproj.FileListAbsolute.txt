@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 43 DagenInFebruari\bin\Debug\netcoreapp3.1\Oefening 43 DagenInFebruari.exe
+D:\Programmeren in c#\Oefeningen\Oefening 43 DagenInFebruari\bin\Debug\netcoreapp3.1\Oefening 43 DagenInFebruari.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 43 DagenInFebruari\bin\Debug\netcoreapp3.1\Oefening 43 DagenInFebruari.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 43 DagenInFebruari\bin\Debug\netcoreapp3.1\Oefening 43 DagenInFebruari.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 43 DagenInFebruari\bin\Debug\netcoreapp3.1\Oefening 43 DagenInFebruari.dll
+D:\Programmeren in c#\Oefeningen\Oefening 43 DagenInFebruari\bin\Debug\netcoreapp3.1\Oefening 43 DagenInFebruari.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 43 DagenInFebruari\obj\Debug\netcoreapp3.1\Oefening 43 DagenInFebruari.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 43 DagenInFebruari\obj\Debug\netcoreapp3.1\Oefening 43 DagenInFebruari.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 43 DagenInFebruari\obj\Debug\netcoreapp3.1\Oefening 43 DagenInFebruari.dll
+D:\Programmeren in c#\Oefeningen\Oefening 43 DagenInFebruari\obj\Debug\netcoreapp3.1\Oefening 43 DagenInFebruari.pdb
