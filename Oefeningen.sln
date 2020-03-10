@@ -79,7 +79,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 37 TemperatuurZoek
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 38 ArrayResize", "Oefening 38 ArrayResize\Oefening 38 ArrayResize.csproj", "{2491D12C-8974-4C22-B5BC-C9BAA220E34D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 39 GesorteerdeGeboorteData", "Oefening 39 GesorteerdeGeboorteData\Oefening 39 GesorteerdeGeboorteData.csproj", "{C0E640A3-2029-4717-B75B-86C0D08977AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 40 GesorteerdeGeboorteData", "Oefening 39 GesorteerdeGeboorteData\Oefening 40 GesorteerdeGeboorteData.csproj", "{C0E640A3-2029-4717-B75B-86C0D08977AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 41 PrintQuotient", "Oefening 41 PrintQuotient\Oefening 41 PrintQuotient.csproj", "{333F278D-E6A7-4909-ADF4-5DC101E3EAED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{C0E640A3-2029-4717-B75B-86C0D08977AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0E640A3-2029-4717-B75B-86C0D08977AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0E640A3-2029-4717-B75B-86C0D08977AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333F278D-E6A7-4909-ADF4-5DC101E3EAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333F278D-E6A7-4909-ADF4-5DC101E3EAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333F278D-E6A7-4909-ADF4-5DC101E3EAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333F278D-E6A7-4909-ADF4-5DC101E3EAED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

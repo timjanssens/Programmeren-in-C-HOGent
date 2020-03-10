@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 41 PrintQuotient\bin\Debug\netcoreapp3.1\Oefening 41 PrintQuotient.exe
+D:\Programmeren in c#\Oefeningen\Oefening 41 PrintQuotient\bin\Debug\netcoreapp3.1\Oefening 41 PrintQuotient.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 41 PrintQuotient\bin\Debug\netcoreapp3.1\Oefening 41 PrintQuotient.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 41 PrintQuotient\bin\Debug\netcoreapp3.1\Oefening 41 PrintQuotient.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 41 PrintQuotient\bin\Debug\netcoreapp3.1\Oefening 41 PrintQuotient.dll
+D:\Programmeren in c#\Oefeningen\Oefening 41 PrintQuotient\bin\Debug\netcoreapp3.1\Oefening 41 PrintQuotient.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 41 PrintQuotient\obj\Debug\netcoreapp3.1\Oefening 41 PrintQuotient.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 41 PrintQuotient\obj\Debug\netcoreapp3.1\Oefening 41 PrintQuotient.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 41 PrintQuotient\obj\Debug\netcoreapp3.1\Oefening 41 PrintQuotient.dll
+D:\Programmeren in c#\Oefeningen\Oefening 41 PrintQuotient\obj\Debug\netcoreapp3.1\Oefening 41 PrintQuotient.pdb

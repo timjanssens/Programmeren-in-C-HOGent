@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programmeren in c#\\Oefeningen\\Oefening 39 GesorteerdeGeboorteData\\Oefening 40 GesorteerdeGeboorteData.csproj",
-      "projectName": "Oefening 40 GesorteerdeGeboorteData",
-      "projectPath": "D:\\Programmeren in c#\\Oefeningen\\Oefening 39 GesorteerdeGeboorteData\\Oefening 40 GesorteerdeGeboorteData.csproj",
+      "projectUniqueName": "D:\\Programmeren in c#\\Oefeningen\\Oefening 41 PrintQuotient\\Oefening 41 PrintQuotient.csproj",
+      "projectName": "Oefening 41 PrintQuotient",
+      "projectPath": "D:\\Programmeren in c#\\Oefeningen\\Oefening 41 PrintQuotient\\Oefening 41 PrintQuotient.csproj",
       "packagesPath": "C:\\Users\\timja\\.nuget\\packages\\",
-      "outputPath": "D:\\Programmeren in c#\\Oefeningen\\Oefening 39 GesorteerdeGeboorteData\\obj\\",
+      "outputPath": "D:\\Programmeren in c#\\Oefeningen\\Oefening 41 PrintQuotient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
