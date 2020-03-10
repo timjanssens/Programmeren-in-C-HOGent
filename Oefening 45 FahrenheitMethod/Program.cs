@@ -22,8 +22,6 @@ namespace Oefening_45_FahrenheitMethod
 
             double gradenFarenheit = gradenCelcius * 1.8 + 32;
 
-
-
             return Math.Round(gradenFarenheit, cijfersNaKomma);
 
         }
