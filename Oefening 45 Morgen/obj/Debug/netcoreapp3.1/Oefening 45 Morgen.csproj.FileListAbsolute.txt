@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 45 Morgen\bin\Debug\netcoreapp3.1\Oefening 45 Morgen.exe
+D:\Programmeren in c#\Oefeningen\Oefening 45 Morgen\bin\Debug\netcoreapp3.1\Oefening 45 Morgen.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 45 Morgen\bin\Debug\netcoreapp3.1\Oefening 45 Morgen.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 45 Morgen\bin\Debug\netcoreapp3.1\Oefening 45 Morgen.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 45 Morgen\bin\Debug\netcoreapp3.1\Oefening 45 Morgen.dll
+D:\Programmeren in c#\Oefeningen\Oefening 45 Morgen\bin\Debug\netcoreapp3.1\Oefening 45 Morgen.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 45 Morgen\obj\Debug\netcoreapp3.1\Oefening 45 Morgen.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 45 Morgen\obj\Debug\netcoreapp3.1\Oefening 45 Morgen.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 45 Morgen\obj\Debug\netcoreapp3.1\Oefening 45 Morgen.dll
+D:\Programmeren in c#\Oefeningen\Oefening 45 Morgen\obj\Debug\netcoreapp3.1\Oefening 45 Morgen.pdb
