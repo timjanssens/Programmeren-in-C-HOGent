@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 38 ArrayResize\bin\Debug\netcoreapp3.1\Oefening 38 ArrayResize.exe
+D:\Programmeren in c#\Oefeningen\Oefening 38 ArrayResize\bin\Debug\netcoreapp3.1\Oefening 38 ArrayResize.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 38 ArrayResize\bin\Debug\netcoreapp3.1\Oefening 38 ArrayResize.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 38 ArrayResize\bin\Debug\netcoreapp3.1\Oefening 38 ArrayResize.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 38 ArrayResize\bin\Debug\netcoreapp3.1\Oefening 38 ArrayResize.dll
+D:\Programmeren in c#\Oefeningen\Oefening 38 ArrayResize\bin\Debug\netcoreapp3.1\Oefening 38 ArrayResize.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 38 ArrayResize\obj\Debug\netcoreapp3.1\Oefening 38 ArrayResize.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 38 ArrayResize\obj\Debug\netcoreapp3.1\Oefening 38 ArrayResize.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 38 ArrayResize\obj\Debug\netcoreapp3.1\Oefening 38 ArrayResize.dll
+D:\Programmeren in c#\Oefeningen\Oefening 38 ArrayResize\obj\Debug\netcoreapp3.1\Oefening 38 ArrayResize.pdb

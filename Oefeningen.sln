@@ -77,6 +77,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 36 ZoekGeschiedeni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 37 TemperatuurZoeken", "Oefening 37 TemperatuurZoeken\Oefening 37 TemperatuurZoeken.csproj", "{4B08B6BA-0851-4A79-A5EE-5B20491052C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 38 ArrayResize", "Oefening 38 ArrayResize\Oefening 38 ArrayResize.csproj", "{2491D12C-8974-4C22-B5BC-C9BAA220E34D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{4B08B6BA-0851-4A79-A5EE-5B20491052C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B08B6BA-0851-4A79-A5EE-5B20491052C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B08B6BA-0851-4A79-A5EE-5B20491052C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2491D12C-8974-4C22-B5BC-C9BAA220E34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2491D12C-8974-4C22-B5BC-C9BAA220E34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2491D12C-8974-4C22-B5BC-C9BAA220E34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2491D12C-8974-4C22-B5BC-C9BAA220E34D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
