@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 46 FahrenheitMetho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 47 Weekdagen", "Oefening 47 Weekdagen\Oefening 47 Weekdagen.csproj", "{0878D609-3C4A-49B0-A9C2-DC5F23D1F7C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 48 PrintLijst", "Oefening 48 PrintLijst\Oefening 48 PrintLijst.csproj", "{43D6642D-6593-4D37-B27F-04B621A82C40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{0878D609-3C4A-49B0-A9C2-DC5F23D1F7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0878D609-3C4A-49B0-A9C2-DC5F23D1F7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0878D609-3C4A-49B0-A9C2-DC5F23D1F7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D6642D-6593-4D37-B27F-04B621A82C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D6642D-6593-4D37-B27F-04B621A82C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D6642D-6593-4D37-B27F-04B621A82C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D6642D-6593-4D37-B27F-04B621A82C40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
