@@ -1,0 +1,11 @@
+D:\Programmeren in c#\Oefeningen\Oefening 44 DagenInMaand\bin\Debug\netcoreapp3.1\Oefening 44 DagenInMaand.exe
+D:\Programmeren in c#\Oefeningen\Oefening 44 DagenInMaand\bin\Debug\netcoreapp3.1\Oefening 44 DagenInMaand.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 44 DagenInMaand\bin\Debug\netcoreapp3.1\Oefening 44 DagenInMaand.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 44 DagenInMaand\bin\Debug\netcoreapp3.1\Oefening 44 DagenInMaand.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 44 DagenInMaand\bin\Debug\netcoreapp3.1\Oefening 44 DagenInMaand.dll
+D:\Programmeren in c#\Oefeningen\Oefening 44 DagenInMaand\bin\Debug\netcoreapp3.1\Oefening 44 DagenInMaand.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 44 DagenInMaand\obj\Debug\netcoreapp3.1\Oefening 44 DagenInMaand.csprojAssemblyReference.cache
+D:\Programmeren in c#\Oefeningen\Oefening 44 DagenInMaand\obj\Debug\netcoreapp3.1\Oefening 44 DagenInMaand.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 44 DagenInMaand\obj\Debug\netcoreapp3.1\Oefening 44 DagenInMaand.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 44 DagenInMaand\obj\Debug\netcoreapp3.1\Oefening 44 DagenInMaand.dll
+D:\Programmeren in c#\Oefeningen\Oefening 44 DagenInMaand\obj\Debug\netcoreapp3.1\Oefening 44 DagenInMaand.pdb
