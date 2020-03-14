@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 51 Halveer\obj\Debug\netcoreapp3.1\Oefening 52 Halveer.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 51 Halveer\obj\Debug\netcoreapp3.1\Oefening 52 Halveer.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 51 Halveer\bin\Debug\netcoreapp3.1\Oefening 52 Halveer.exe
+D:\Programmeren in c#\Oefeningen\Oefening 51 Halveer\bin\Debug\netcoreapp3.1\Oefening 52 Halveer.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 51 Halveer\bin\Debug\netcoreapp3.1\Oefening 52 Halveer.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 51 Halveer\bin\Debug\netcoreapp3.1\Oefening 52 Halveer.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 51 Halveer\bin\Debug\netcoreapp3.1\Oefening 52 Halveer.dll
+D:\Programmeren in c#\Oefeningen\Oefening 51 Halveer\bin\Debug\netcoreapp3.1\Oefening 52 Halveer.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 51 Halveer\obj\Debug\netcoreapp3.1\Oefening 52 Halveer.dll
+D:\Programmeren in c#\Oefeningen\Oefening 51 Halveer\obj\Debug\netcoreapp3.1\Oefening 52 Halveer.pdb
