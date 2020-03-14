@@ -99,7 +99,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 48 PrintLijst", "O
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 49 FibonacciMethod", "Oefening 49 FibonacciMethod\Oefening 49 FibonacciMethod.csproj", "{D5537822-9E48-4DD0-B849-B9586EC1602D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 50 FibonacciReeks", "Oefening 50 FibonacciReeks\Oefening 50 FibonacciReeks.csproj", "{DD646CE7-A992-403A-A71A-1E5C633BA19E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 50 FibonacciReeks", "Oefening 50 FibonacciReeks\Oefening 50 FibonacciReeks.csproj", "{DD646CE7-A992-403A-A71A-1E5C633BA19E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 51 VerwisselMethod", "Oefening 51 VerwisselMethod\Oefening 51 VerwisselMethod.csproj", "{CC5241DF-ED8A-4DB4-AF87-B3F0DFDA2DB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{DD646CE7-A992-403A-A71A-1E5C633BA19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD646CE7-A992-403A-A71A-1E5C633BA19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD646CE7-A992-403A-A71A-1E5C633BA19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5241DF-ED8A-4DB4-AF87-B3F0DFDA2DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5241DF-ED8A-4DB4-AF87-B3F0DFDA2DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5241DF-ED8A-4DB4-AF87-B3F0DFDA2DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5241DF-ED8A-4DB4-AF87-B3F0DFDA2DB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 51 VerwisselMethod\bin\Debug\netcoreapp3.1\Oefening 51 VerwisselMethod.exe
+D:\Programmeren in c#\Oefeningen\Oefening 51 VerwisselMethod\bin\Debug\netcoreapp3.1\Oefening 51 VerwisselMethod.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 51 VerwisselMethod\bin\Debug\netcoreapp3.1\Oefening 51 VerwisselMethod.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 51 VerwisselMethod\bin\Debug\netcoreapp3.1\Oefening 51 VerwisselMethod.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 51 VerwisselMethod\bin\Debug\netcoreapp3.1\Oefening 51 VerwisselMethod.dll
+D:\Programmeren in c#\Oefeningen\Oefening 51 VerwisselMethod\bin\Debug\netcoreapp3.1\Oefening 51 VerwisselMethod.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 51 VerwisselMethod\obj\Debug\netcoreapp3.1\Oefening 51 VerwisselMethod.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 51 VerwisselMethod\obj\Debug\netcoreapp3.1\Oefening 51 VerwisselMethod.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 51 VerwisselMethod\obj\Debug\netcoreapp3.1\Oefening 51 VerwisselMethod.dll
+D:\Programmeren in c#\Oefeningen\Oefening 51 VerwisselMethod\obj\Debug\netcoreapp3.1\Oefening 51 VerwisselMethod.pdb
