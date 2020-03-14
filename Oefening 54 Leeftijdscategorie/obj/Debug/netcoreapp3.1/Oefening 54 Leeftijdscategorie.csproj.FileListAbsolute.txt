@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 54 Leeftijdscategorie\bin\Debug\netcoreapp3.1\Oefening 54 Leeftijdscategorie.exe
+D:\Programmeren in c#\Oefeningen\Oefening 54 Leeftijdscategorie\bin\Debug\netcoreapp3.1\Oefening 54 Leeftijdscategorie.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 54 Leeftijdscategorie\bin\Debug\netcoreapp3.1\Oefening 54 Leeftijdscategorie.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 54 Leeftijdscategorie\bin\Debug\netcoreapp3.1\Oefening 54 Leeftijdscategorie.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 54 Leeftijdscategorie\bin\Debug\netcoreapp3.1\Oefening 54 Leeftijdscategorie.dll
+D:\Programmeren in c#\Oefeningen\Oefening 54 Leeftijdscategorie\bin\Debug\netcoreapp3.1\Oefening 54 Leeftijdscategorie.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 54 Leeftijdscategorie\obj\Debug\netcoreapp3.1\Oefening 54 Leeftijdscategorie.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 54 Leeftijdscategorie\obj\Debug\netcoreapp3.1\Oefening 54 Leeftijdscategorie.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 54 Leeftijdscategorie\obj\Debug\netcoreapp3.1\Oefening 54 Leeftijdscategorie.dll
+D:\Programmeren in c#\Oefeningen\Oefening 54 Leeftijdscategorie\obj\Debug\netcoreapp3.1\Oefening 54 Leeftijdscategorie.pdb
