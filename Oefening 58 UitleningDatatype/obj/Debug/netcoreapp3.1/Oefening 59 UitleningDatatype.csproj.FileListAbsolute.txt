@@ -1,0 +1,11 @@
+D:\Programmeren in c#\Oefeningen\Oefening 58 UitleningDatatype\bin\Debug\netcoreapp3.1\Oefening 59 UitleningDatatype.exe
+D:\Programmeren in c#\Oefeningen\Oefening 58 UitleningDatatype\bin\Debug\netcoreapp3.1\Oefening 59 UitleningDatatype.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 58 UitleningDatatype\bin\Debug\netcoreapp3.1\Oefening 59 UitleningDatatype.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 58 UitleningDatatype\bin\Debug\netcoreapp3.1\Oefening 59 UitleningDatatype.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 58 UitleningDatatype\bin\Debug\netcoreapp3.1\Oefening 59 UitleningDatatype.dll
+D:\Programmeren in c#\Oefeningen\Oefening 58 UitleningDatatype\bin\Debug\netcoreapp3.1\Oefening 59 UitleningDatatype.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 58 UitleningDatatype\obj\Debug\netcoreapp3.1\Oefening 59 UitleningDatatype.csprojAssemblyReference.cache
+D:\Programmeren in c#\Oefeningen\Oefening 58 UitleningDatatype\obj\Debug\netcoreapp3.1\Oefening 59 UitleningDatatype.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 58 UitleningDatatype\obj\Debug\netcoreapp3.1\Oefening 59 UitleningDatatype.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 58 UitleningDatatype\obj\Debug\netcoreapp3.1\Oefening 59 UitleningDatatype.dll
+D:\Programmeren in c#\Oefeningen\Oefening 58 UitleningDatatype\obj\Debug\netcoreapp3.1\Oefening 59 UitleningDatatype.pdb
