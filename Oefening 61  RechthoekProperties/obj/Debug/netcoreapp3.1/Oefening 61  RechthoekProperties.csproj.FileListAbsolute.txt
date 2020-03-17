@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 61  RechthoekProperties\bin\Debug\netcoreapp3.1\Oefening 61  RechthoekProperties.exe
+D:\Programmeren in c#\Oefeningen\Oefening 61  RechthoekProperties\bin\Debug\netcoreapp3.1\Oefening 61  RechthoekProperties.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 61  RechthoekProperties\bin\Debug\netcoreapp3.1\Oefening 61  RechthoekProperties.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 61  RechthoekProperties\bin\Debug\netcoreapp3.1\Oefening 61  RechthoekProperties.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 61  RechthoekProperties\bin\Debug\netcoreapp3.1\Oefening 61  RechthoekProperties.dll
+D:\Programmeren in c#\Oefeningen\Oefening 61  RechthoekProperties\bin\Debug\netcoreapp3.1\Oefening 61  RechthoekProperties.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 61  RechthoekProperties\obj\Debug\netcoreapp3.1\Oefening 61  RechthoekProperties.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 61  RechthoekProperties\obj\Debug\netcoreapp3.1\Oefening 61  RechthoekProperties.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 61  RechthoekProperties\obj\Debug\netcoreapp3.1\Oefening 61  RechthoekProperties.dll
+D:\Programmeren in c#\Oefeningen\Oefening 61  RechthoekProperties\obj\Debug\netcoreapp3.1\Oefening 61  RechthoekProperties.pdb
