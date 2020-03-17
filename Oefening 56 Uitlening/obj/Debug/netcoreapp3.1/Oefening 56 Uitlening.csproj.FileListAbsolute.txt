@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 56 Uitlening\bin\Debug\netcoreapp3.1\Oefening 56 Uitlening.exe
+D:\Programmeren in c#\Oefeningen\Oefening 56 Uitlening\bin\Debug\netcoreapp3.1\Oefening 56 Uitlening.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 56 Uitlening\bin\Debug\netcoreapp3.1\Oefening 56 Uitlening.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 56 Uitlening\bin\Debug\netcoreapp3.1\Oefening 56 Uitlening.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 56 Uitlening\bin\Debug\netcoreapp3.1\Oefening 56 Uitlening.dll
+D:\Programmeren in c#\Oefeningen\Oefening 56 Uitlening\bin\Debug\netcoreapp3.1\Oefening 56 Uitlening.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 56 Uitlening\obj\Debug\netcoreapp3.1\Oefening 56 Uitlening.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 56 Uitlening\obj\Debug\netcoreapp3.1\Oefening 56 Uitlening.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 56 Uitlening\obj\Debug\netcoreapp3.1\Oefening 56 Uitlening.dll
+D:\Programmeren in c#\Oefeningen\Oefening 56 Uitlening\obj\Debug\netcoreapp3.1\Oefening 56 Uitlening.pdb

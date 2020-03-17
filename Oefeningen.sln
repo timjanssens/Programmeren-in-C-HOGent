@@ -101,15 +101,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 49 FibonacciMethod
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 50 FibonacciReeks", "Oefening 50 FibonacciReeks\Oefening 50 FibonacciReeks.csproj", "{DD646CE7-A992-403A-A71A-1E5C633BA19E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 51 VerwisselMethod", "Oefening 51 VerwisselMethod\Oefening 51 VerwisselMethod.csproj", "{CC5241DF-ED8A-4DB4-AF87-B3F0DFDA2DB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 51 VerwisselMethod", "Oefening 51 VerwisselMethod\Oefening 51 VerwisselMethod.csproj", "{CC5241DF-ED8A-4DB4-AF87-B3F0DFDA2DB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 52 Halveer", "Oefening 51 Halveer\Oefening 52 Halveer.csproj", "{8DC34AC1-CBE5-4F8A-85F3-8CCC508C3BD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 52 Halveer", "Oefening 51 Halveer\Oefening 52 Halveer.csproj", "{8DC34AC1-CBE5-4F8A-85F3-8CCC508C3BD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 53 PrintGemiddelde", "Oefening 53 PrintGemiddelde\Oefening 53 PrintGemiddelde.csproj", "{2AAEB243-C269-4ADE-ACA6-BE33C0199722}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 53 PrintGemiddelde", "Oefening 53 PrintGemiddelde\Oefening 53 PrintGemiddelde.csproj", "{2AAEB243-C269-4ADE-ACA6-BE33C0199722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 54 Leeftijdscategorie", "Oefening 54 Leeftijdscategorie\Oefening 54 Leeftijdscategorie.csproj", "{E1F53A55-F87D-459B-ADB2-D0C52E4FE8D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 54 Leeftijdscategorie", "Oefening 54 Leeftijdscategorie\Oefening 54 Leeftijdscategorie.csproj", "{E1F53A55-F87D-459B-ADB2-D0C52E4FE8D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 55 ToegangsPrijs", "Oefening 55 ToegangsPrijs\Oefening 55 ToegangsPrijs.csproj", "{F409B955-9B37-4190-8D8C-991101C19686}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening 55 ToegangsPrijs", "Oefening 55 ToegangsPrijs\Oefening 55 ToegangsPrijs.csproj", "{F409B955-9B37-4190-8D8C-991101C19686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 56 Uitlening", "Oefening 56 Uitlening\Oefening 56 Uitlening.csproj", "{14B32D42-1B51-48EC-9DB6-7D77AA97149C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +335,10 @@ Global
 		{F409B955-9B37-4190-8D8C-991101C19686}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F409B955-9B37-4190-8D8C-991101C19686}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F409B955-9B37-4190-8D8C-991101C19686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B32D42-1B51-48EC-9DB6-7D77AA97149C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B32D42-1B51-48EC-9DB6-7D77AA97149C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B32D42-1B51-48EC-9DB6-7D77AA97149C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B32D42-1B51-48EC-9DB6-7D77AA97149C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
