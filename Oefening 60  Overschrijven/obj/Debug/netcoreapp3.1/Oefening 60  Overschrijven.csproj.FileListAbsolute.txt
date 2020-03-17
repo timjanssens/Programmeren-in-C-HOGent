@@ -1,0 +1,11 @@
+D:\Programmeren in c#\Oefeningen\Oefening 60  Overschrijven\bin\Debug\netcoreapp3.1\Oefening 60  Overschrijven.exe
+D:\Programmeren in c#\Oefeningen\Oefening 60  Overschrijven\bin\Debug\netcoreapp3.1\Oefening 60  Overschrijven.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 60  Overschrijven\bin\Debug\netcoreapp3.1\Oefening 60  Overschrijven.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 60  Overschrijven\bin\Debug\netcoreapp3.1\Oefening 60  Overschrijven.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 60  Overschrijven\bin\Debug\netcoreapp3.1\Oefening 60  Overschrijven.dll
+D:\Programmeren in c#\Oefeningen\Oefening 60  Overschrijven\bin\Debug\netcoreapp3.1\Oefening 60  Overschrijven.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 60  Overschrijven\obj\Debug\netcoreapp3.1\Oefening 60  Overschrijven.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 60  Overschrijven\obj\Debug\netcoreapp3.1\Oefening 60  Overschrijven.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 60  Overschrijven\obj\Debug\netcoreapp3.1\Oefening 60  Overschrijven.dll
+D:\Programmeren in c#\Oefeningen\Oefening 60  Overschrijven\obj\Debug\netcoreapp3.1\Oefening 60  Overschrijven.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 60  Overschrijven\obj\Debug\netcoreapp3.1\Oefening 60  Overschrijven.csprojAssemblyReference.cache
