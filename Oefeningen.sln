@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 56 Uitlening", "Oe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 57 RechthoekDatatype", "Oefening 57 RechthoekDatatype\Oefening 57 RechthoekDatatype.csproj", "{44E5137F-5A21-48F0-9CC3-BCF5F3415BB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 58 ArtikelDatatype", "Oefening 58 ArtikelDatatype\Oefening 58 ArtikelDatatype.csproj", "{2B11506A-DE81-4251-8E35-408777EA1068}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -345,6 +347,10 @@ Global
 		{44E5137F-5A21-48F0-9CC3-BCF5F3415BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44E5137F-5A21-48F0-9CC3-BCF5F3415BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44E5137F-5A21-48F0-9CC3-BCF5F3415BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B11506A-DE81-4251-8E35-408777EA1068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B11506A-DE81-4251-8E35-408777EA1068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B11506A-DE81-4251-8E35-408777EA1068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B11506A-DE81-4251-8E35-408777EA1068}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
