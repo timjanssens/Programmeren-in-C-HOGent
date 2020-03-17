@@ -1,0 +1,10 @@
+D:\Programmeren in c#\Oefeningen\Oefening 57 RechthoekDatatype\bin\Debug\netcoreapp3.1\Oefening 57 RechthoekDatatype.exe
+D:\Programmeren in c#\Oefeningen\Oefening 57 RechthoekDatatype\bin\Debug\netcoreapp3.1\Oefening 57 RechthoekDatatype.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 57 RechthoekDatatype\bin\Debug\netcoreapp3.1\Oefening 57 RechthoekDatatype.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 57 RechthoekDatatype\bin\Debug\netcoreapp3.1\Oefening 57 RechthoekDatatype.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 57 RechthoekDatatype\bin\Debug\netcoreapp3.1\Oefening 57 RechthoekDatatype.dll
+D:\Programmeren in c#\Oefeningen\Oefening 57 RechthoekDatatype\bin\Debug\netcoreapp3.1\Oefening 57 RechthoekDatatype.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 57 RechthoekDatatype\obj\Debug\netcoreapp3.1\Oefening 57 RechthoekDatatype.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 57 RechthoekDatatype\obj\Debug\netcoreapp3.1\Oefening 57 RechthoekDatatype.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 57 RechthoekDatatype\obj\Debug\netcoreapp3.1\Oefening 57 RechthoekDatatype.dll
+D:\Programmeren in c#\Oefeningen\Oefening 57 RechthoekDatatype\obj\Debug\netcoreapp3.1\Oefening 57 RechthoekDatatype.pdb
