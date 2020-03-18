@@ -1,0 +1,11 @@
+D:\Programmeren in c#\Oefeningen\Oefening 62 PersoonProperties\bin\Debug\netcoreapp3.1\Oefening 62 PersoonProperties.exe
+D:\Programmeren in c#\Oefeningen\Oefening 62 PersoonProperties\bin\Debug\netcoreapp3.1\Oefening 62 PersoonProperties.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 62 PersoonProperties\bin\Debug\netcoreapp3.1\Oefening 62 PersoonProperties.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 62 PersoonProperties\bin\Debug\netcoreapp3.1\Oefening 62 PersoonProperties.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 62 PersoonProperties\bin\Debug\netcoreapp3.1\Oefening 62 PersoonProperties.dll
+D:\Programmeren in c#\Oefeningen\Oefening 62 PersoonProperties\bin\Debug\netcoreapp3.1\Oefening 62 PersoonProperties.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 62 PersoonProperties\obj\Debug\netcoreapp3.1\Oefening 62 PersoonProperties.csprojAssemblyReference.cache
+D:\Programmeren in c#\Oefeningen\Oefening 62 PersoonProperties\obj\Debug\netcoreapp3.1\Oefening 62 PersoonProperties.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 62 PersoonProperties\obj\Debug\netcoreapp3.1\Oefening 62 PersoonProperties.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 62 PersoonProperties\obj\Debug\netcoreapp3.1\Oefening 62 PersoonProperties.dll
+D:\Programmeren in c#\Oefeningen\Oefening 62 PersoonProperties\obj\Debug\netcoreapp3.1\Oefening 62 PersoonProperties.pdb

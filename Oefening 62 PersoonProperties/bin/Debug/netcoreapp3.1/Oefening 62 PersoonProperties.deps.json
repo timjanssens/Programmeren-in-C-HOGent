@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Oefening 62 PersoonProperties/1.0.0": {
+        "runtime": {
+          "Oefening 62 PersoonProperties.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oefening 62 PersoonProperties/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
