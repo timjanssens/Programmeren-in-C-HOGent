@@ -31,10 +31,10 @@ namespace Oefening_62_PersoonProperties
             leeftijdP1 = Datum.AantalVolledigeJarenTotNuSinds(new DateTime(2011, 3, 8));
             Console.WriteLine(p1.Leeftijd() == leeftijdP1);                     // zou true moeten geven
             p1.Rijksregisternummer = null;
-            Console.WriteLine(p1.Rijksregisternummer == null);                  // zou true moeten geven        
-            Console.WriteLine(p1.IsMan() == false);                             // zou true moeten geven      
-            Console.WriteLine(p1.IsVrouw() == false);                           // zou true moeten geven      
-                                                                                // Console.WriteLine(p1.Leeftijd() == 0);                              // zou true moeten geven
+            //Console.WriteLine(p1.Rijksregisternummer == null);                  // zou true moeten geven        
+            //Console.WriteLine(p1.IsMan() == false);                             // zou true moeten geven      
+            //Console.WriteLine(p1.IsVrouw() == false);                           // zou true moeten geven      
+            //Console.WriteLine(p1.Leeftijd() == 0);                              // zou true moeten geven
 
             Console.ReadKey();
         }
