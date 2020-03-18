@@ -1,0 +1,11 @@
+D:\Programmeren in c#\Oefeningen\Oefening 64 RechteEnPunt\obj\Debug\netcoreapp3.1\Oefening 64 RechteEnPunt.csprojAssemblyReference.cache
+D:\Programmeren in c#\Oefeningen\Oefening 64 RechteEnPunt\obj\Debug\netcoreapp3.1\Oefening 64 RechteEnPunt.AssemblyInfoInputs.cache
+D:\Programmeren in c#\Oefeningen\Oefening 64 RechteEnPunt\obj\Debug\netcoreapp3.1\Oefening 64 RechteEnPunt.AssemblyInfo.cs
+D:\Programmeren in c#\Oefeningen\Oefening 64 RechteEnPunt\bin\Debug\netcoreapp3.1\Oefening 64 RechteEnPunt.exe
+D:\Programmeren in c#\Oefeningen\Oefening 64 RechteEnPunt\bin\Debug\netcoreapp3.1\Oefening 64 RechteEnPunt.deps.json
+D:\Programmeren in c#\Oefeningen\Oefening 64 RechteEnPunt\bin\Debug\netcoreapp3.1\Oefening 64 RechteEnPunt.runtimeconfig.json
+D:\Programmeren in c#\Oefeningen\Oefening 64 RechteEnPunt\bin\Debug\netcoreapp3.1\Oefening 64 RechteEnPunt.runtimeconfig.dev.json
+D:\Programmeren in c#\Oefeningen\Oefening 64 RechteEnPunt\bin\Debug\netcoreapp3.1\Oefening 64 RechteEnPunt.dll
+D:\Programmeren in c#\Oefeningen\Oefening 64 RechteEnPunt\bin\Debug\netcoreapp3.1\Oefening 64 RechteEnPunt.pdb
+D:\Programmeren in c#\Oefeningen\Oefening 64 RechteEnPunt\obj\Debug\netcoreapp3.1\Oefening 64 RechteEnPunt.dll
+D:\Programmeren in c#\Oefeningen\Oefening 64 RechteEnPunt\obj\Debug\netcoreapp3.1\Oefening 64 RechteEnPunt.pdb
